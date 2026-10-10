@@ -1,7 +1,7 @@
-Privacy Policy for StackSage
+Privacy Policy for Liya Health
 Last updated: 10 May 2026
 1. Introduction
-StackSage ("we", "our", or "us") is operated by Matt Pilling, a sole trader based in the United Kingdom. This Privacy Policy explains how we collect, use, and protect your personal information when you use the StackSage mobile application ("the App").
+Liya Health ("we", "our", or "us") is operated by Matt Pilling, a sole trader based in the United Kingdom. This Privacy Policy explains how we collect, use, and protect your personal information when you use the Liya Health mobile application ("the App").
 We are committed to protecting your privacy and complying with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
 2. Information We Collect
 Account information:
@@ -71,7 +71,7 @@ Amazon Privacy Policy: https://www.amazon.co.uk/gp/help/customer/display.html?no
 6. Health Data
 The health-related information you provide (goals, conditions, supplement preferences) is used solely to personalise your experience within the App. We treat this information with the highest level of care.
 We do not share your health information with any third parties except as described in Section 5 above (for the sole purpose of operating the App).
-Important: StackSage is not a medical device and does not provide medical advice. Always consult a qualified healthcare professional before starting any supplement regimen.
+Important: Liya Health is not a medical device and does not provide medical advice. Always consult a qualified healthcare professional before starting any supplement regimen.
 7. Data Retention
 We retain your personal data for as long as your account is active. If you delete your account, we will delete your personal data within 30 days, except where we are required to retain it by law.
 Daily supplement tracking logs are stored locally on your device and are deleted when you uninstall the App.
@@ -97,12 +97,12 @@ Row-level security on all database tables
 Passwords are hashed and never stored in plain text
 
 10. Children's Privacy
-StackSage is not intended for use by children under the age of 13. We do not knowingly collect personal data from children under 13. If you believe we have inadvertently collected such data, please contact us immediately.
+Liya Health is not intended for use by children under the age of 13. We do not knowingly collect personal data from children under 13. If you believe we have inadvertently collected such data, please contact us immediately.
 11. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the "Last updated" date at the top of this policy. Continued use of the App after changes constitutes acceptance of the updated policy.
 12. Contact Us
 If you have any questions about this Privacy Policy or how we handle your data, please contact:
 Matt Pilling
 Email: mtpilling92@gmail.com
-Business: StackSage
+Business: Liya Health
 If you are not satisfied with our response, you have the right to lodge a complaint with the UK Information Commissioner's Office (ICO) at ico.org.uk.
